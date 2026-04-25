@@ -1,6 +1,4 @@
-package org.example;
-
-import java.util.Arrays;
+package org.example.TwoPointers;
 
 public class TwoSum {
     public static void main(String[] args) {

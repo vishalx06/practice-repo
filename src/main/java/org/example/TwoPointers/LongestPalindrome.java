@@ -1,4 +1,4 @@
-package org.example;
+package org.example.TwoPointers;
 
 public class LongestPalindrome {
     public static void main(String[] args) {

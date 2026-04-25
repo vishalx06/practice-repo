@@ -1,6 +1,5 @@
-package org.example;
+package org.example.TwoPointers;
 
-import java.net.StandardSocketOptions;
 import java.util.Arrays;
 
 public class ProductExceptSelf {
