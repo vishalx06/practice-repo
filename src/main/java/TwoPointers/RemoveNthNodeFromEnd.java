@@ -1,4 +1,4 @@
-package org.example.TwoPointers;
+package TwoPointers;
 
     class ListNode{
         int val;

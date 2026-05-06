@@ -1,4 +1,4 @@
-package org.example.TwoPointers;
+package TwoPointers;
 
 public class MoveZeros {
     public static void main(String[] args) {

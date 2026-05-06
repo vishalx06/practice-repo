@@ -1,4 +1,4 @@
-package org.example.TwoPointers;
+package TwoPointers;
 
 public class SortColors {
     public static void main(String[] args) {

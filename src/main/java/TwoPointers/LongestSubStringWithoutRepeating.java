@@ -1,11 +1,11 @@
-package org.example.TwoPointers;
+package TwoPointers;
 
 import java.util.HashSet;
 import java.util.Set;
 
 public class LongestSubStringWithoutRepeating {
     public static void main(String[] args) {
-        System.out.println(lengthOfLongestSubstring("abcabcbb"));
+        System.out.println(lengthOfLongestSubstring("geeksforgeeks"));
     }
 
     private static int lengthOfLongestSubstring(String str) {
